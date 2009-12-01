@@ -20,10 +20,10 @@ The cheat sheet is released under GNU Free Documentation License.
 The cheat sheet is available in .pdf, .txt (ascii) and .doc (microsoft word)
 formats. The latest versions can always be found at:
 
-  .txt: http://www.catonmat.net/download/ed.unix.text.editor.cheat.sheet.txt
+  .txt: http://www.catonmat.net/download/ed.text.editor.cheat.sheet.txt
   .pdf: http://www.catonmat.net/download/ed.text.editor.cheat.sheet.pdf
   .doc: http://www.catonmat.net/download/ed.text.editor.cheat.sheet.doc
- 
+
 I'm sorry that I used Microsoft Word to create it, but I was not proficient in
 LaTeX back then.
 
